@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Funational" >
+  <test name="LoginResult">
+    <classes>
+      <class name="testCaseDetails.TC001_DmsLogin"/>
+      <class name="testCaseDetails.TC002_LoginFailwithUserneme"/>
+    </classes>
+  </test> <!-- LoginResult -->
+</suite> <!-- Funational-->
